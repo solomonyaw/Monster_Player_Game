@@ -14,3 +14,7 @@ The moster can also:
 ![alt text](cmd1.PNG "Description goes here")
 
 ![alt text](cmd2.PNG "Description goes here")
+
+
+#Below is the tutorial for the game
+[![IMAGE ALT TEXT HERE](youtube.PNG)](https://www.youtube.com/watch?v=kDdTgxv2Vv0&t=5241s)
