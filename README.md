@@ -1,5 +1,4 @@
-# Monster_Player_Game
-
+# Monster_Player_Game 
 
 In this monster attack game
 1. a player can harm a monster
@@ -9,4 +8,9 @@ In this monster attack game
 The moster can also:
 1. harm a player
 2. has a health status bar which shows whether the monster is alive or dead
+
 ![alt text](Game_structure.PNG "Description goes here")
+
+![alt text](cmd1.PNG "Description goes here")
+
+![alt text](cmd2.PNG "Description goes here")
