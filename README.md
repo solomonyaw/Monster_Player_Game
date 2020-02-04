@@ -5,7 +5,7 @@ In this monster attack game
 2. a player can heal itself thereby increasing its health level
 3. a player has a health status bar which shows whether the player is alive or dead
 
-The moster can also:
+The monster can also:
 1. harm a player
 2. has a health status bar which shows whether the monster is alive or dead
 
