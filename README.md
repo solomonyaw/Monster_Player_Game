@@ -1,4 +1,4 @@
-# Monster_Player_Game 
+# Monster_Player_Python_Game 
 
 In this monster attack game
 1. a player can harm a monster
